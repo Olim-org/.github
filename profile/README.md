@@ -24,7 +24,7 @@
 - CRM 사이트에서 회원가입 후 자신만의 센터를 만들어보세요.
 - 센터는 여러 개 등록할 수 있습니다.
 
-[센터 기능 이미지로 구경하기](#image)
+[센터 기능 이미지로 구경하기](#crm-이미지)
 
 ## 🛠 기술 스택 - Backend
   - Java 21
@@ -64,9 +64,7 @@
     - 헬스장 이용권 관련 기능을 제공합니다.
     - Swagger API [링크](https://apis.olim.pyre.live/reserve-service/swagger-ui/index.html)
 
-# image
-
-## CRM 이미지 
+# CRM 이미지
 
 ### - CRM 메인 화면
 
