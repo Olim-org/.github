@@ -42,7 +42,8 @@
   - Open API Swagger
 ## 🔅 프로젝트 구조
 ### Backend
-<img src="https://cdn.discordapp.com/attachments/393025698907947009/1219311405996441691/image.png?ex=660ad73c&is=65f8623c&hm=7f8d08e0e9eb2ad97379e8c481608ee48b9f9f7c35843db2aa82bfe9df8230e4&" alt="drawing" width="600"/>
+
+<img src="https://cdn.discordapp.com/attachments/393025698907947009/1224266379700731914/image.png?ex=661cddea&is=660a68ea&hm=d4887783a1a1f1b4bc09d2c4e509499f2abacc04af1115e85ffe662b82c9fde3&" alt="drawing" width="600"/>
 
 #### [OlimGateway](https://github.com/Olim-org/OlimGateway-source.git)
   - **Gateway**: 백엔드와 프론트의 통신문
