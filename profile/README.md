@@ -47,7 +47,7 @@
 
 #### [OlimGateway](https://github.com/Olim-org/OlimGateway-source.git)
   - **Gateway**: 백엔드와 프론트의 통신문
-  - **기능**: API 라우팅, 유저 인증 및 권한 확인, 로드밸런싱
+  - **기능**: API 라우팅, 유저 인가, 로드밸런싱
 #### [OlimAuth-service](https://github.com/Olim-org/OlimAuth-source.git)
   - **기능**:
     - 유저의 회원가입, 로그인 등 인증 및 인가를 관리합니다.
